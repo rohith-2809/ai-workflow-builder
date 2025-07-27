@@ -1,4 +1,4 @@
-# Advanced AI Workflow Builder: A Full-Stack No-Code Platform
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/b9f65ed4-24eb-4e10-94c2-1b26b1721662" /># Advanced AI Workflow Builder: A Full-Stack No-Code Platform
 
 This repository contains the complete source code for the **No-Code AI Workflow Builder**, a full-stack application designed to empower users to create intelligent AI-driven workflows without writing code. The platform allows users to build and run complex AI pipelines by visually connecting modular components, such as document processors, large language models, and web search utilities.
 
@@ -7,13 +7,8 @@ The application supports use cases like document-based question answering (RAG),
 ________________________________________________________________________________________________________________________________________________________________
 
 
-## Project Objective
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/89f3a7bf-6aa5-4710-81d4-86b30005850a" />
 
-The goal of this project is to provide a no-code environment where non-technical users can:
-- Visually create workflows by dragging and connecting AI components.
-- Upload personal documents and incorporate them into AI reasoning.
-- Use real-time web search to enhance responses.
-- Execute and interact with the workflow using a live, streaming chat interface.
 
 ________________________________________________________________________________________________________________________________________________________________
 
