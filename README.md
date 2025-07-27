@@ -1,4 +1,4 @@
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/b9f65ed4-24eb-4e10-94c2-1b26b1721662" /># Advanced AI Workflow Builder: A Full-Stack No-Code Platform
+# Advanced AI Workflow Builder: A Full-Stack No-Code Platform
 
 This repository contains the complete source code for the **No-Code AI Workflow Builder**, a full-stack application designed to empower users to create intelligent AI-driven workflows without writing code. The platform allows users to build and run complex AI pipelines by visually connecting modular components, such as document processors, large language models, and web search utilities.
 
