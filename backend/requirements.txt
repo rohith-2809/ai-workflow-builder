@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sse-starlette
+python-dotenv
+google-generativeai
+chromadb
+pymupdf
+google-search-results
